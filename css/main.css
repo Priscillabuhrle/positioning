@@ -1,0 +1,19 @@
+body {
+	font-family: Helvetica;
+	text-align: center;
+}
+a {
+	width: 120px;
+	height: 50px;
+	background-color: #2ACEE0;
+	margin:20px;
+	display: inline-block;
+	border: 3px solid blue;
+	font-size: 20px;
+	color:white;
+	text-decoration:none;
+}
+a:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=100);
+}
