@@ -1,0 +1,22 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+div{
+	width: 200px;
+	height: 200px;
+	position: relative;
+}
+
+.rosa{
+	background-color: #EE3E64;
+
+
+}
+.celeste{
+	background-color: #44ACCF;
+	margin-left: 200px;
+}
+.verde{
+	background-color: #b7d84b
+}
